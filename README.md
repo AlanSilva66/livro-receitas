@@ -2,5 +2,5 @@
 
 Olá, bem vindo ao meu livro de receitas. 
 
-- Bolode chocolate
-- ​
+- Bolo de chocolate
+- ​Torta
